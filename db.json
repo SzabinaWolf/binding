@@ -1,0 +1,36 @@
+{
+  "nevek": [
+    {
+      "id": 1,
+      "nev": "Kiss Kata",
+      "cim": "Budapest",
+      "telefonszam": "+36201234567",
+      "kor": "49",
+      "nem": "Nő"
+    },
+    {
+      "id": 2,
+      "nev": "Pénzes Patrik",
+      "cim": "Érd",
+      "telefonszam": "+36304567896",
+      "kor": "52",
+      "nem": "Férfi"
+    },
+    {
+      "id": 3,
+      "nev": "Nagy Virág",
+      "cim": "Göd",
+      "telefonszam": "+36704561236",
+      "kor": "33",
+      "nem": "Nő"
+    },
+    {
+      "nev": "Példa Béla",
+      "cim": "Nagykőrös",
+      "telefonszam": "+36201594568",
+      "kor": "45",
+      "nem": "Férfi",
+      "id": 4
+    }
+  ]
+}
